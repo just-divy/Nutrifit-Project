@@ -66,7 +66,9 @@ calculator:
 > is expected will crash it. This is listed as a known issue in the project report.
 
 ## Screenshots
-_Add a couple of terminal screenshots here (main menu + one sample run) before submitting._
+![image alt](https://github.com/just-divy/Nutrifit-Project/blob/main/Code1.png)
+![image alt](https://github.com/just-divy/Nutrifit-Project/blob/main/Code2.png)
+![image alt](https://github.com/just-divy/Nutrifit-Project/blob/main/Output.png)
 
 ## Project Files
 - `12.py` — the main program (menu + all four calculators)
