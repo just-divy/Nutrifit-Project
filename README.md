@@ -71,6 +71,7 @@ calculator:
 ![image alt](https://github.com/just-divy/Nutrifit-Project/blob/main/Output.png)
 
 ## Project Files
-- `12.py` — the main program (menu + all four calculators)
-- `statement.md` — problem statement and scope
+- `Nutrifit.py` — the main program (menu + all four calculators)
+- `Statement.md` — problem statement and scope
 - `README.md` — this file
+- `Nutrifit_Reprot.pdf` — Report of the program
